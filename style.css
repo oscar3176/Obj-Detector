@@ -1,0 +1,30 @@
+.btn-warning {
+    width: 100%;
+    margin-top: 0;
+    font-size: 50px;
+    border-radius: 75%;
+}
+
+.btn-success, .btn-danger {
+    font-size: 18px;
+}
+
+.copy-right-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    line-height: 3;
+}
+
+canvas {
+    border: 5px;
+    margin: 100px;
+    border-color: blue;
+    border-style: double;
+    box-shadow: 3px 3px 3px royalblue;
+    margin-right: 10%;
+}
